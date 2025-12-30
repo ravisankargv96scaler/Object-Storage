@@ -1,0 +1,5 @@
+{
+  "name": "42-Cloud Object Storage Explained",
+  "description": "An interactive educational platform visualizing the core concepts of Cloud Object Storage, including flat namespaces, metadata, API access, and durability mechanisms.",
+  "requestFramePermissions": []
+}
